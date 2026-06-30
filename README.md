@@ -61,9 +61,10 @@ Develop promotional strategies during historically low-performing months.
 Improve inventory planning using historical sales trends.
 Refine forecasting models to enhance planning accuracy.
 Focus marketing efforts on products demonstrating sustained growth.
-Repository Contents
-📁 Sales Performance Dashboard
 
+Repository Contents
+
+📁 Sales Performance Dashboard
 ├── Sales Dashboard.xlsx
 ├── Dashboard Screenshot.png
 ├── Executive Report.pdf
@@ -80,6 +81,8 @@ Data Visualization
 Business Storytelling
 Executive Reporting
 Decision Support
+
 Conclusion
+
 This project demonstrates how Microsoft Excel can be leveraged to transform large datasets into actionable business insights. By combining data cleaning, analytical techniques, interactive visualizations, and executive reporting, the project showcases an end-to-end analytics workflow that supports informed decision-making.
 This project demonstrates how Microsoft Excel can be leveraged to transform large datasets into actionable business insights. By combining data cleaning, analytical techniques, interactive visualizations, and executive reporting, the project showcases an end-to-end analytics workflow that supports informed decision-making
